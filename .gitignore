@@ -1,2 +1,3 @@
-secrets.py
+mysecrets.py
 telegraf.conf
+docker-compose.yml
