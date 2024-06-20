@@ -190,7 +190,6 @@ try:
                 "time": current_time_str
             }
 
-
             #if movement_sensor.is_detected():
                 #try:
                     #print("Movement detected")
